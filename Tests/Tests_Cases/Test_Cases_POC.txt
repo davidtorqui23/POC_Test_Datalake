@@ -1,0 +1,50 @@
+TestCase 1: Validation Conection
+```
+Feature: Validate the conection of the Datalake
+  Scenario: Try to conect to Datalake
+    Given the Datalake is avaliable
+    When the input data is correct
+    Then a connection successful message is displayed
+  
+@Test_Cases_POC / @test_validation_connection
+```
+
+TestCase 2: Validation Container in Datalake
+```
+Feature: Validate the existence of the container
+  Scenario: Validate container name
+    Given I have a Container in the Datalake
+    When I query the container
+    Then I get a successful response
+@Test_Cases_POC / @test_validation_container
+```
+
+TestCase 3: Validate file in Datalake
+```
+Feature: Validate the existence of a file in the Datalake
+  Scenario: validate that a parquet file is in the Datalake
+    Given I have a parquet file in the Datalake
+    When I query for the file
+    Then I get a successful response
+@Test_Cases_POC / @test_validation_file
+```
+
+TestCase 4: Data Storage - Schema Validation
+```
+Feature: Data Storage - Schema Validation
+  Scenario: Validate stored data schema
+    Given the processed data is available in the DataLake
+    When the schema validation process starts
+    Then the stored data should match the defined schema
+@Test_Cases_POC / @test_validation_schema
+```
+
+TestCase 5: Data Query - Data Filtering
+```
+Feature: Data Query - Data Filtering
+  Scenario: Filter data from DataLake
+    Given the processed data is available in the DataLake
+    When a data filtering query is executed
+    Then the correct filtered data should be retrieved from the DataLake
+@Test_Cases_POC / @test_validation_query
+```

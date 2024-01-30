@@ -1,0 +1,6 @@
+2024-01-30 16:15:16 - Test_Cases_POC - WARNING - Connection successful.
+2024-01-30 16:15:17 - Test_Cases_POC - WARNING - test-automation - Container Exist.
+2024-01-30 16:15:18 - Test_Cases_POC - WARNING - test_automation.parquet - File Exist.
+2024-01-30 16:15:28 - Test_Cases_POC - WARNING - yellow_tripdata_2023-10.parquet - The File has all the columns as defined.
+2024-01-30 16:15:28 - Test_Cases_POC - WARNING - Time taken to case: 10.22 seconds
+2024-01-30 16:15:37 - Test_Cases_POC - WARNING - Time taken to query yellow_tripdata_2023-10.parquet (column: tpep_dropoff_datetime, value: 10/1/2023 1:27 AM): 9.00 seconds
