@@ -1,6 +1,9 @@
-2024-01-30 16:15:16 - Test_Cases_POC - WARNING - Connection successful.
-2024-01-30 16:15:17 - Test_Cases_POC - WARNING - test-automation - Container Exist.
-2024-01-30 16:15:18 - Test_Cases_POC - WARNING - test_automation.parquet - File Exist.
-2024-01-30 16:15:28 - Test_Cases_POC - WARNING - yellow_tripdata_2023-10.parquet - The File has all the columns as defined.
-2024-01-30 16:15:28 - Test_Cases_POC - WARNING - Time taken to case: 10.22 seconds
-2024-01-30 16:15:37 - Test_Cases_POC - WARNING - Time taken to query yellow_tripdata_2023-10.parquet (column: tpep_dropoff_datetime, value: 10/1/2023 1:27 AM): 9.00 seconds
+2024-02-09 14:21:48 - Test_Cases_POC_2 - WARNING - The number the files: '.parquet' in the folder: 'Genoa' is: 3.
+2024-02-09 14:21:50 - Test_Cases_POC_2 - WARNING - The file 'Genoa/parquet_1.parquet' have the size: '69289' bytes
+2024-02-09 14:21:50 - Test_Cases_POC_2 - WARNING - The file 'Genoa/parquet_2.parquet' have the size: '106636' bytes
+2024-02-09 14:21:51 - Test_Cases_POC_2 - WARNING - The file 'Genoa/parquet_3.parquet' have the size: '73233' bytes
+2024-02-09 14:21:51 - Test_Cases_POC_2 - WARNING - The sizes are correct
+2024-02-09 14:21:52 - Test_Cases_POC_2 - WARNING - Number of records in the 'Genoa/parquet_1.parquet' file is : '368'
+2024-02-09 14:21:53 - Test_Cases_POC_2 - WARNING - Number of records in the 'Genoa/parquet_2.parquet' file is : '853'
+2024-02-09 14:21:53 - Test_Cases_POC_2 - WARNING - Number of records in the 'Genoa/parquet_3.parquet' file is : '403'
+2024-02-09 14:21:53 - Test_Cases_POC_2 - WARNING - The number of the records is correct

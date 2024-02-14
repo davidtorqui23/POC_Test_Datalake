@@ -15,7 +15,8 @@ setup(
         "pytest",
         "pytest-html",
         "pytest-email",
-        "pytest-sugar"
+        "pytest-sugar",
+        "pyspark"
     ],
     classifiers=[
         "Programming Language :: Python :: 3.11.5",
