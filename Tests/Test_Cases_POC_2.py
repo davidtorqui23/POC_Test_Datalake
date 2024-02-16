@@ -4,6 +4,8 @@ import pyarrow as pa
 import pyarrow.parquet as pq
 import logging
 import io
+import json
+import os
 
 from io import BytesIO
 from fastparquet import ParquetFile
@@ -31,6 +33,40 @@ def conection():
         # Add to log history
         logger.error(f"The conection Fail. {e}")
 
+def test_download_json():
+
+    try:
+
+        logger = logging.getLogger(__name__)
+
+        container_client = conection()
+        
+        # Name of the JSON file in the Azure Blob container
+        blob_name = "Genoa/Data.json"
+
+        # Get the current working directory
+        current_location = os.getcwd()
+
+        # Custom name and directory for the downloaded JSON file
+        file_name = "data_validation.json"
+        directory = f'{current_location}\Data'
+
+        # Get the container and blob clients
+        blob_client = container_client.get_blob_client(blob_name)
+
+        # Download the JSON file from Azure Blob storage
+        with open(os.path.join(directory, file_name), "wb") as file:
+            data = blob_client.download_blob()
+            file.write(data.readall())
+            
+
+        logger.warning(f"JSON file saved as {file_name} in {directory}")
+
+    except Exception as e:
+        
+        # Add to log history
+        logger.error(f"The download Json Fail. {e}")
+
 def all_files():
 
     try:
@@ -56,13 +92,18 @@ def test_validation_number_files():
         lista = all_files()
 
         validation_number_files = False
-        files_expected = 3
             
         format = ".parquet"
         folder = "Genoa"
 
         contador = 0
 
+        # Open and read the JSON file
+        with open('Data/data_validation.json', 'r') as file:
+            data = json.load(file)
+
+        # Get the number of registers
+        files_expected = data['global_values']['total_number_of_files']
 
         for list in lista:
 

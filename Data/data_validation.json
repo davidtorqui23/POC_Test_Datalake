@@ -1,0 +1,8002 @@
+[
+  {
+    "name": "parquet_1.parquet",
+    "size": 69289
+  },
+  {
+    "name": "parquet_2.parquet",
+    "size": 106636
+  },
+  {
+    "name": "parquet_3.parquet",
+    "size": 73233
+  },
+  {
+    "name": "parquet_4.parquet",
+    "size": 1000
+  },
+  {
+    "name": "parquet_5.parquet",
+    "size": 1000
+  },
+  {
+    "name": "parquet_6.parquet",
+    "size": 1000
+  },
+  {
+    "name": "parquet_7.parquet",
+    "size": 1000
+  },
+  {
+    "name": "parquet_8.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_9.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_10.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_11.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_12.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_13.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_14.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_15.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_16.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_17.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_18.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_19.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_20.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_21.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_22.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_23.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_24.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_25.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_26.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_27.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_28.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_29.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_30.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_31.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_32.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_33.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_34.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_35.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_36.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_37.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_38.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_39.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_40.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_41.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_42.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_43.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_44.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_45.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_46.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_47.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_48.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_49.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_50.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_51.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_52.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_53.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_54.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_55.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_56.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_57.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_58.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_59.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_60.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_61.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_62.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_63.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_64.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_65.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_66.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_67.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_68.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_69.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_70.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_71.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_72.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_73.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_74.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_75.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_76.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_77.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_78.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_79.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_80.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_81.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_82.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_83.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_84.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_85.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_86.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_87.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_88.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_89.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_90.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_91.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_92.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_93.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_94.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_95.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_96.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_97.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_98.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_99.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_100.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_101.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_102.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_103.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_104.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_105.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_106.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_107.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_108.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_109.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_110.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_111.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_112.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_113.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_114.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_115.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_116.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_117.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_118.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_119.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_120.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_121.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_122.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_123.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_124.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_125.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_126.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_127.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_128.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_129.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_130.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_131.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_132.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_133.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_134.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_135.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_136.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_137.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_138.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_139.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_140.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_141.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_142.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_143.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_144.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_145.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_146.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_147.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_148.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_149.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_150.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_151.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_152.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_153.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_154.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_155.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_156.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_157.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_158.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_159.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_160.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_161.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_162.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_163.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_164.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_165.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_166.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_167.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_168.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_169.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_170.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_171.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_172.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_173.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_174.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_175.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_176.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_177.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_178.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_179.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_180.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_181.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_182.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_183.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_184.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_185.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_186.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_187.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_188.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_189.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_190.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_191.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_192.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_193.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_194.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_195.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_196.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_197.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_198.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_199.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_200.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_201.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_202.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_203.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_204.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_205.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_206.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_207.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_208.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_209.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_210.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_211.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_212.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_213.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_214.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_215.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_216.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_217.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_218.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_219.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_220.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_221.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_222.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_223.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_224.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_225.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_226.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_227.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_228.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_229.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_230.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_231.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_232.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_233.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_234.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_235.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_236.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_237.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_238.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_239.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_240.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_241.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_242.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_243.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_244.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_245.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_246.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_247.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_248.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_249.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_250.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_251.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_252.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_253.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_254.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_255.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_256.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_257.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_258.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_259.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_260.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_261.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_262.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_263.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_264.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_265.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_266.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_267.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_268.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_269.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_270.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_271.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_272.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_273.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_274.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_275.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_276.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_277.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_278.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_279.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_280.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_281.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_282.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_283.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_284.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_285.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_286.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_287.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_288.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_289.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_290.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_291.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_292.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_293.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_294.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_295.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_296.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_297.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_298.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_299.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_300.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_301.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_302.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_303.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_304.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_305.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_306.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_307.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_308.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_309.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_310.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_311.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_312.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_313.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_314.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_315.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_316.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_317.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_318.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_319.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_320.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_321.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_322.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_323.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_324.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_325.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_326.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_327.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_328.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_329.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_330.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_331.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_332.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_333.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_334.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_335.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_336.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_337.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_338.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_339.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_340.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_341.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_342.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_343.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_344.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_345.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_346.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_347.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_348.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_349.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_350.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_351.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_352.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_353.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_354.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_355.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_356.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_357.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_358.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_359.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_360.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_361.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_362.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_363.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_364.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_365.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_366.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_367.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_368.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_369.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_370.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_371.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_372.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_373.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_374.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_375.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_376.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_377.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_378.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_379.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_380.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_381.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_382.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_383.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_384.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_385.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_386.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_387.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_388.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_389.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_390.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_391.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_392.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_393.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_394.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_395.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_396.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_397.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_398.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_399.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_400.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_401.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_402.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_403.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_404.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_405.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_406.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_407.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_408.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_409.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_410.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_411.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_412.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_413.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_414.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_415.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_416.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_417.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_418.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_419.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_420.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_421.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_422.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_423.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_424.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_425.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_426.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_427.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_428.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_429.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_430.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_431.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_432.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_433.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_434.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_435.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_436.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_437.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_438.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_439.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_440.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_441.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_442.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_443.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_444.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_445.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_446.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_447.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_448.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_449.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_450.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_451.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_452.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_453.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_454.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_455.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_456.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_457.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_458.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_459.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_460.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_461.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_462.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_463.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_464.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_465.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_466.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_467.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_468.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_469.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_470.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_471.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_472.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_473.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_474.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_475.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_476.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_477.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_478.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_479.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_480.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_481.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_482.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_483.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_484.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_485.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_486.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_487.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_488.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_489.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_490.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_491.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_492.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_493.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_494.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_495.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_496.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_497.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_498.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_499.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_500.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_501.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_502.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_503.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_504.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_505.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_506.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_507.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_508.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_509.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_510.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_511.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_512.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_513.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_514.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_515.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_516.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_517.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_518.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_519.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_520.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_521.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_522.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_523.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_524.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_525.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_526.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_527.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_528.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_529.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_530.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_531.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_532.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_533.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_534.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_535.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_536.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_537.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_538.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_539.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_540.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_541.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_542.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_543.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_544.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_545.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_546.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_547.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_548.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_549.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_550.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_551.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_552.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_553.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_554.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_555.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_556.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_557.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_558.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_559.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_560.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_561.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_562.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_563.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_564.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_565.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_566.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_567.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_568.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_569.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_570.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_571.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_572.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_573.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_574.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_575.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_576.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_577.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_578.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_579.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_580.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_581.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_582.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_583.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_584.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_585.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_586.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_587.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_588.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_589.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_590.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_591.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_592.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_593.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_594.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_595.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_596.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_597.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_598.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_599.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_600.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_601.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_602.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_603.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_604.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_605.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_606.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_607.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_608.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_609.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_610.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_611.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_612.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_613.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_614.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_615.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_616.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_617.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_618.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_619.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_620.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_621.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_622.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_623.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_624.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_625.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_626.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_627.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_628.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_629.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_630.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_631.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_632.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_633.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_634.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_635.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_636.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_637.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_638.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_639.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_640.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_641.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_642.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_643.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_644.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_645.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_646.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_647.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_648.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_649.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_650.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_651.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_652.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_653.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_654.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_655.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_656.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_657.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_658.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_659.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_660.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_661.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_662.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_663.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_664.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_665.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_666.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_667.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_668.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_669.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_670.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_671.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_672.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_673.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_674.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_675.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_676.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_677.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_678.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_679.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_680.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_681.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_682.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_683.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_684.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_685.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_686.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_687.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_688.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_689.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_690.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_691.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_692.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_693.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_694.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_695.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_696.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_697.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_698.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_699.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_700.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_701.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_702.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_703.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_704.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_705.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_706.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_707.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_708.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_709.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_710.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_711.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_712.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_713.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_714.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_715.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_716.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_717.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_718.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_719.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_720.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_721.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_722.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_723.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_724.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_725.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_726.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_727.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_728.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_729.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_730.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_731.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_732.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_733.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_734.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_735.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_736.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_737.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_738.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_739.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_740.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_741.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_742.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_743.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_744.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_745.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_746.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_747.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_748.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_749.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_750.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_751.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_752.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_753.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_754.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_755.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_756.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_757.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_758.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_759.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_760.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_761.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_762.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_763.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_764.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_765.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_766.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_767.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_768.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_769.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_770.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_771.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_772.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_773.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_774.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_775.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_776.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_777.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_778.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_779.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_780.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_781.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_782.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_783.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_784.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_785.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_786.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_787.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_788.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_789.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_790.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_791.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_792.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_793.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_794.parquet",
+    "size": 80210
+  },
+  {
+    "name": "parquet_795.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_796.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_797.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_798.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_799.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_800.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_801.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_802.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_803.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_804.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_805.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_806.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_807.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_808.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_809.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_810.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_811.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_812.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_813.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_814.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_815.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_816.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_817.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_818.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_819.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_820.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_821.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_822.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_823.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_824.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_825.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_826.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_827.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_828.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_829.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_830.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_831.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_832.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_833.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_834.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_835.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_836.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_837.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_838.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_839.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_840.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_841.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_842.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_843.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_844.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_845.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_846.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_847.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_848.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_849.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_850.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_851.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_852.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_853.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_854.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_855.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_856.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_857.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_858.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_859.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_860.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_861.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_862.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_863.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_864.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_865.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_866.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_867.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_868.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_869.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_870.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_871.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_872.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_873.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_874.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_875.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_876.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_877.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_878.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_879.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_880.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_881.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_882.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_883.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_884.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_885.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_886.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_887.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_888.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_889.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_890.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_891.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_892.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_893.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_894.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_895.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_896.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_897.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_898.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_899.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_900.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_901.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_902.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_903.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_904.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_905.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_906.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_907.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_908.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_909.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_910.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_911.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_912.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_913.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_914.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_915.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_916.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_917.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_918.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_919.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_920.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_921.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_922.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_923.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_924.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_925.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_926.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_927.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_928.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_929.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_930.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_931.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_932.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_933.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_934.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_935.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_936.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_937.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_938.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_939.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_940.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_941.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_942.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_943.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_944.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_945.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_946.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_947.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_948.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_949.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_950.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_951.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_952.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_953.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_954.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_955.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_956.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_957.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_958.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_959.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_960.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_961.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_962.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_963.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_964.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_965.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_966.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_967.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_968.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_969.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_970.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_971.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_972.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_973.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_974.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_975.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_976.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_977.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_978.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_979.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_980.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_981.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_982.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_983.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_984.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_985.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_986.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_987.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_988.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_989.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_990.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_991.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_992.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_993.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_994.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_995.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_996.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_997.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_998.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_999.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1000.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1001.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1002.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1003.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1004.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1005.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1006.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1007.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1008.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1009.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1010.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1011.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1012.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1013.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1014.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1015.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1016.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1017.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1018.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1019.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1020.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1021.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1022.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1023.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1024.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1025.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1026.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1027.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1028.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1029.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1030.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1031.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1032.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1033.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1034.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1035.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1036.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1037.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1038.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1039.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1040.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1041.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1042.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1043.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1044.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1045.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1046.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1047.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1048.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1049.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1050.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1051.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1052.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1053.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1054.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1055.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1056.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1057.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1058.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1059.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1060.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1061.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1062.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1063.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1064.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1065.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1066.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1067.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1068.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1069.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1070.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1071.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1072.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1073.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1074.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1075.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1076.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1077.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1078.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1079.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1080.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1081.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1082.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1083.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1084.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1085.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1086.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1087.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1088.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1089.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1090.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1091.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1092.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1093.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1094.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1095.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1096.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1097.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1098.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1099.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1100.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1101.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1102.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1103.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1104.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1105.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1106.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1107.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1108.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1109.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1110.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1111.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1112.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1113.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1114.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1115.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1116.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1117.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1118.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1119.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1120.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1121.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1122.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1123.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1124.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1125.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1126.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1127.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1128.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1129.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1130.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1131.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1132.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1133.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1134.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1135.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1136.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1137.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1138.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1139.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1140.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1141.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1142.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1143.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1144.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1145.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1146.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1147.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1148.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1149.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1150.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1151.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1152.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1153.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1154.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1155.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1156.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1157.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1158.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1159.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1160.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1161.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1162.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1163.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1164.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1165.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1166.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1167.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1168.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1169.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1170.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1171.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1172.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1173.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1174.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1175.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1176.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1177.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1178.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1179.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1180.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1181.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1182.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1183.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1184.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1185.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1186.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1187.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1188.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1189.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1190.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1191.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1192.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1193.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1194.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1195.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1196.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1197.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1198.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1199.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1200.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1201.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1202.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1203.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1204.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1205.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1206.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1207.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1208.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1209.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1210.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1211.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1212.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1213.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1214.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1215.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1216.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1217.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1218.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1219.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1220.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1221.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1222.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1223.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1224.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1225.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1226.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1227.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1228.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1229.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1230.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1231.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1232.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1233.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1234.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1235.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1236.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1237.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1238.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1239.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1240.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1241.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1242.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1243.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1244.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1245.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1246.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1247.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1248.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1249.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1250.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1251.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1252.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1253.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1254.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1255.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1256.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1257.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1258.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1259.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1260.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1261.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1262.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1263.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1264.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1265.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1266.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1267.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1268.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1269.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1270.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1271.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1272.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1273.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1274.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1275.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1276.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1277.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1278.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1279.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1280.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1281.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1282.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1283.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1284.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1285.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1286.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1287.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1288.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1289.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1290.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1291.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1292.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1293.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1294.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1295.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1296.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1297.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1298.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1299.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1300.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1301.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1302.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1303.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1304.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1305.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1306.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1307.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1308.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1309.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1310.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1311.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1312.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1313.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1314.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1315.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1316.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1317.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1318.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1319.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1320.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1321.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1322.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1323.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1324.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1325.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1326.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1327.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1328.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1329.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1330.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1331.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1332.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1333.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1334.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1335.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1336.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1337.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1338.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1339.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1340.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1341.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1342.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1343.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1344.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1345.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1346.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1347.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1348.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1349.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1350.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1351.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1352.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1353.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1354.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1355.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1356.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1357.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1358.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1359.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1360.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1361.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1362.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1363.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1364.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1365.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1366.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1367.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1368.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1369.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1370.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1371.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1372.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1373.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1374.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1375.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1376.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1377.parquet",
+    "size": 80210
+  },
+  {
+    "name": "parquet_1378.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1379.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1380.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1381.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1382.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1383.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1384.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1385.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1386.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1387.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1388.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1389.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1390.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1391.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1392.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1393.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1394.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1395.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1396.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1397.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1398.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1399.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1400.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1401.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1402.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1403.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1404.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1405.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1406.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1407.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1408.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1409.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1410.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1411.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1412.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1413.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1414.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1415.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1416.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1417.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1418.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1419.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1420.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1421.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1422.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1423.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1424.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1425.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1426.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1427.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1428.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1429.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1430.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1431.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1432.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1433.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1434.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1435.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1436.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1437.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1438.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1439.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1440.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1441.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1442.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1443.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1444.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1445.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1446.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1447.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1448.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1449.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1450.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1451.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1452.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1453.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1454.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1455.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1456.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1457.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1458.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1459.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1460.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1461.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1462.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1463.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1464.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1465.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1466.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1467.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1468.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1469.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1470.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1471.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1472.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1473.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1474.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1475.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1476.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1477.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1478.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1479.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1480.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1481.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1482.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1483.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1484.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1485.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1486.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1487.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1488.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1489.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1490.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1491.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1492.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1493.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1494.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1495.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1496.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1497.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1498.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1499.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1500.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1501.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1502.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1503.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1504.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1505.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1506.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1507.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1508.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1509.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1510.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1511.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1512.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1513.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1514.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1515.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1516.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1517.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1518.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1519.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1520.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1521.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1522.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1523.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1524.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1525.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1526.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1527.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1528.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1529.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1530.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1531.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1532.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1533.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1534.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1535.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1536.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1537.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1538.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1539.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1540.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1541.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1542.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1543.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1544.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1545.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1546.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1547.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1548.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1549.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1550.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1551.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1552.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1553.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1554.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1555.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1556.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1557.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1558.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1559.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1560.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1561.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1562.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1563.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1564.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1565.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1566.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1567.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1568.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1569.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1570.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1571.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1572.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1573.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1574.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1575.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1576.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1577.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1578.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1579.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1580.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1581.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1582.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1583.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1584.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1585.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1586.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1587.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1588.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1589.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1590.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1591.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1592.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1593.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1594.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1595.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1596.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1597.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1598.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1599.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1600.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1601.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1602.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1603.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1604.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1605.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1606.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1607.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1608.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1609.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1610.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1611.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1612.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1613.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1614.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1615.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1616.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1617.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1618.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1619.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1620.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1621.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1622.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1623.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1624.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1625.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1626.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1627.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1628.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1629.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1630.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1631.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1632.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1633.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1634.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1635.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1636.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1637.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1638.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1639.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1640.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1641.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1642.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1643.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1644.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1645.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1646.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1647.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1648.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1649.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1650.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1651.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1652.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1653.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1654.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1655.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1656.parquet",
+    "size": 80210
+  },
+  {
+    "name": "parquet_1657.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1658.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1659.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1660.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1661.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1662.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1663.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1664.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1665.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1666.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1667.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1668.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1669.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1670.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1671.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1672.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1673.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1674.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1675.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1676.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1677.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1678.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1679.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1680.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1681.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1682.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1683.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1684.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1685.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1686.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1687.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1688.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1689.parquet",
+    "size": 80211
+  },
+  {
+    "name": "parquet_1690.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1691.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1692.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1693.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1694.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1695.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1696.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1697.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1698.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1699.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1700.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1701.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1702.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1703.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1704.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1705.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1706.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1707.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1708.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1709.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1710.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1711.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1712.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1713.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1714.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1715.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1716.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1717.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1718.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1719.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1720.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1721.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1722.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1723.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1724.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1725.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1726.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1727.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1728.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1729.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1730.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1731.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1732.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1733.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1734.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1735.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1736.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1737.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1738.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1739.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1740.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1741.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1742.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1743.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1744.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1745.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1746.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1747.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1748.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1749.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1750.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1751.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1752.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1753.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1754.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1755.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1756.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1757.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1758.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1759.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1760.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1761.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1762.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1763.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1764.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1765.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1766.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1767.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1768.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1769.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1770.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1771.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1772.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1773.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1774.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1775.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1776.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1777.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1778.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1779.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1780.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1781.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1782.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1783.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1784.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1785.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1786.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1787.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1788.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1789.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1790.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1791.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1792.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1793.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1794.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1795.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1796.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1797.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1798.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1799.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1800.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1801.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1802.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1803.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1804.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1805.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1806.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1807.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1808.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1809.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1810.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1811.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1812.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1813.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1814.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1815.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1816.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1817.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1818.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1819.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1820.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1821.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1822.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1823.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1824.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1825.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1826.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1827.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1828.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1829.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1830.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1831.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1832.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1833.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1834.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1835.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1836.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1837.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1838.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1839.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1840.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1841.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1842.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1843.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1844.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1845.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1846.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1847.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1848.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1849.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1850.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1851.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1852.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1853.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1854.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1855.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1856.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1857.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1858.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1859.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1860.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1861.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1862.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1863.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1864.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1865.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1866.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1867.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1868.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1869.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1870.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1871.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1872.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1873.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1874.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1875.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1876.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1877.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1878.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1879.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1880.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1881.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1882.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1883.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1884.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1885.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1886.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1887.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1888.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1889.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1890.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1891.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1892.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1893.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1894.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1895.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1896.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1897.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1898.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1899.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1900.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1901.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1902.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1903.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1904.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1905.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1906.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1907.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1908.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1909.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1910.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1911.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1912.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1913.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1914.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1915.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1916.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1917.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1918.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1919.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1920.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1921.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1922.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1923.parquet",
+    "size": 80210
+  },
+  {
+    "name": "parquet_1924.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1925.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1926.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1927.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1928.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1929.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1930.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1931.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1932.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1933.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1934.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1935.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1936.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1937.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1938.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1939.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1940.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1941.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1942.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1943.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1944.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1945.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1946.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1947.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1948.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1949.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1950.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1951.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1952.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1953.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1954.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1955.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1956.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1957.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1958.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1959.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1960.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1961.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1962.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1963.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1964.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1965.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1966.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1967.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1968.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1969.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1970.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1971.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1972.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1973.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1974.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1975.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1976.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1977.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1978.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1979.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1980.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1981.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1982.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1983.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1984.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1985.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1986.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1987.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1988.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1989.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1990.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1991.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1992.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1993.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1994.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1995.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1996.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1997.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1998.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_1999.parquet",
+    "size": 80209
+  },
+  {
+    "name": "parquet_2000.parquet",
+    "size": 80209
+  }
+]

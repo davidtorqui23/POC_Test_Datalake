@@ -1,9 +1,10 @@
-2024-02-09 14:21:48 - Test_Cases_POC_2 - WARNING - The number the files: '.parquet' in the folder: 'Genoa' is: 3.
-2024-02-09 14:21:50 - Test_Cases_POC_2 - WARNING - The file 'Genoa/parquet_1.parquet' have the size: '69289' bytes
-2024-02-09 14:21:50 - Test_Cases_POC_2 - WARNING - The file 'Genoa/parquet_2.parquet' have the size: '106636' bytes
-2024-02-09 14:21:51 - Test_Cases_POC_2 - WARNING - The file 'Genoa/parquet_3.parquet' have the size: '73233' bytes
-2024-02-09 14:21:51 - Test_Cases_POC_2 - WARNING - The sizes are correct
-2024-02-09 14:21:52 - Test_Cases_POC_2 - WARNING - Number of records in the 'Genoa/parquet_1.parquet' file is : '368'
-2024-02-09 14:21:53 - Test_Cases_POC_2 - WARNING - Number of records in the 'Genoa/parquet_2.parquet' file is : '853'
-2024-02-09 14:21:53 - Test_Cases_POC_2 - WARNING - Number of records in the 'Genoa/parquet_3.parquet' file is : '403'
-2024-02-09 14:21:53 - Test_Cases_POC_2 - WARNING - The number of the records is correct
+2024-02-15 12:27:12 - Test_Cases_POC_2 - WARNING - JSON file saved as data_validation.json in C:\Users\arltorre\Desktop\Framework Test\Data
+2024-02-15 12:27:13 - Test_Cases_POC_2 - WARNING - The number the files: '.parquet' in the folder: 'Genoa' is: 3.
+2024-02-15 12:27:15 - Test_Cases_POC_2 - WARNING - The file 'Genoa/parquet_1.parquet' have the size: '69289' bytes
+2024-02-15 12:27:15 - Test_Cases_POC_2 - WARNING - The file 'Genoa/parquet_2.parquet' have the size: '106636' bytes
+2024-02-15 12:27:16 - Test_Cases_POC_2 - WARNING - The file 'Genoa/parquet_3.parquet' have the size: '73233' bytes
+2024-02-15 12:27:16 - Test_Cases_POC_2 - WARNING - The sizes are correct
+2024-02-15 12:27:17 - Test_Cases_POC_2 - WARNING - Number of records in the 'Genoa/parquet_1.parquet' file is : '368'
+2024-02-15 12:27:17 - Test_Cases_POC_2 - WARNING - Number of records in the 'Genoa/parquet_2.parquet' file is : '853'
+2024-02-15 12:27:17 - Test_Cases_POC_2 - WARNING - Number of records in the 'Genoa/parquet_3.parquet' file is : '403'
+2024-02-15 12:27:17 - Test_Cases_POC_2 - WARNING - The number of the records is correct

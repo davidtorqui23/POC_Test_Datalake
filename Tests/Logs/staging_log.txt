@@ -1,0 +1,4 @@
+2024-02-15 18:09:21 - Test_Cases_POC_5 - ERROR - The file 'Genoa/parquet_4.parquet' have the size: '80209' bytes but expected '1000'
+2024-02-15 18:09:34 - Test_Cases_POC_5 - ERROR - The file 'Genoa/parquet_5.parquet' have the size: '80209' bytes but expected '1000'
+2024-02-15 18:09:47 - Test_Cases_POC_5 - ERROR - The file 'Genoa/parquet_6.parquet' have the size: '80209' bytes but expected '1000'
+2024-02-15 18:10:00 - Test_Cases_POC_5 - ERROR - The file 'Genoa/parquet_7.parquet' have the size: '80209' bytes but expected '1000'

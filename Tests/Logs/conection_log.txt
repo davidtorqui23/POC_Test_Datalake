@@ -1,0 +1,2 @@
+2024-02-15 17:20:09 - Test_Cases_POC_Conection - WARNING - The conection is successful. To Container 'test-automation'.
+2024-02-15 17:20:10 - Test_Cases_POC_Conection - WARNING - JSON file saved as data_validation.json in C:\Users\arltorre\Desktop\Framework Test\Data
